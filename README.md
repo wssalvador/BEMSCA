@@ -8,3 +8,5 @@ BEMSCA is a stochastic decision support tool for the optimal design of stem cell
 
 # Using BEMSCA
 In order to use BEMSCA, a user must have a version of Python 3 installed on their computer. If a user does not have Python 3 installed, they may downloaded it from: https://www.python.org/downloads/.
+
+When altering BEMSCA's source code to adapt it to specific production scenarios, the use of a code editor is recommended. Visual Studio Code is a good candidate for this purpose, but there are many other alternatives that can be employed according to the user's preference.
