@@ -17,4 +17,8 @@ pip3 install pandas
 pip3 install matplotlib
 ```
 
+Note: pip may have to be used instead of pip3, or whatever alias has been defined in the user's operating system.
+
 When altering BEMSCA's source code to adapt it to specific production scenarios, the use of a code editor is recommended. Visual Studio Code is a good candidate for this purpose, but there are many other alternatives that can be employed according to the user's preference.
+
+The folder provided in this GitHub repository includes all the necessary files for BEMSCA to function, along with a default SQLite database (database.db) and example graphs in the "results" subfolder.
