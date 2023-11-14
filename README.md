@@ -35,4 +35,4 @@ The user is encouraged to alter BEMSCA's source code according to his specific p
 
 Programming in Python is required to employ BEMSCA to its full potential, but by following the existing structures of the source code a basic level of understanding is sufficient.
 
-Thank you for taking an interest in BEMSCA, we hope it may prove useful for your work. If you have any queries related to BEMSCA, fell free to send them to: william.salvador@tecnico.ulisboa.pt
+Thank you for taking an interest in BEMSCA, we hope it may prove useful for your work. If you have any queries related to BEMSCA, fell free to send them to: william.salvador@tecnico.ulisboa.pt.
