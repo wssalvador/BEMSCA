@@ -3,10 +3,10 @@ BEMSCA - Bioprocess Economic Model for Stem Cell Applications
 
 Stem Cell Engineering Research Group, Instituto Superior Tecnico, Universidade de Lisboa, Portugal
 
-# Introduction
+## Introduction
 BEMSCA is a stochastic decision support tool for the optimal design of stem cell bioprocesses. It is capable of providing an optimized workflow and detailed economic evaluation of a user-designed bioprocess based on relevant inputs. For a more detailed explanation concerning the importance of bioprocess economic modeling, as well as the structure and potential applications of BEMSCA, please refer to the following research paper:
 
-# Using BEMSCA
+## Using BEMSCA
 In order to use BEMSCA, the user must have a version of Python 3 installed on their computer. If the user does not have Python 3 installed, they may downloaded it from: https://www.python.org/downloads/.
 
 Aside from a Python 3 source, the numpy, pandas and matplotlib packages should be installed, since these are essential for the proper functioning of BEMSCA's source code. The easiest way to do this is through Python's pip package installer, which should already come with the downloaded Python 3 source. The user should execute the following 3 commands in their terminal (or command prompt):
@@ -34,3 +34,5 @@ The user should then follow the instructions presented to interact with BEMSCA. 
 The user is encouraged to alter BEMSCA's source code according to his specific production scenarios. If the user wishes to alter BEMSCA's database, they must first remove the existing database from the "BEMSCA" folder. They can then modify the database.py file according to their preferences, but must take care to respect the existing organization of the tables present in this file. The user can change values, create new table entries, or even create entirely new tables, but the user may need to execute additional modifications to the rest of BEMSCA's source code. When the user next runs BEMSCA, the a new database.db file will be created reflecting the modifications to database.py.
 
 Programming in Python is required to employ BEMSCA to its full potential, but by following the existing structures of the source code a basic level of understanding is sufficient.
+
+Thank you for taking an interest in BEMSCA, we hope it may prove useful for your work.
