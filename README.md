@@ -4,7 +4,7 @@ BEMSCA - Bioprocess Economic Model for Stem Cell Applications
 Stem Cell Engineering Research Group, Instituto Superior Tecnico, Universidade de Lisboa, Portugal
 
 ## Introduction
-BEMSCA is a stochastic decision support tool for the optimal design of stem cell bioprocesses. It is capable of providing an optimized workflow and detailed economic evaluation of a user-designed bioprocess based on relevant inputs. With the source code of this repository, BEMSCA was applied to the optimization of the large-scale expansion of human induced pluripotent stem cells, as a demonstration of its functionality. For a more detailed explanation concerning the importance of bioprocess economic modeling, as well as the structure and potential applications of BEMSCA, please refer to the following research paper:
+BEMSCA is a stochastic decision support tool for the optimal design of stem cell bioprocesses. It is capable of providing an optimized workflow and detailed economic evaluation of a user-designed bioprocess based on relevant inputs. With the source code of this repository, BEMSCA was applied to the optimization of the large-scale expansion of human induced pluripotent stem cells, as a demonstration of its functionality. For a more detailed explanation concerning the importance of bioprocess economic modeling, as well as the structure and potential applications of BEMSCA, please refer to the following research paper: https://doi.org/10.1016/j.crbiot.2023.100163.
 
 ## Using BEMSCA
 In order to use BEMSCA, the user must have a version of Python 3 installed on their computer. If the user does not have Python 3 installed, they may downloaded it from: https://www.python.org/downloads/.
